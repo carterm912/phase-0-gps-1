@@ -1,3 +1,5 @@
+here is a conflict
+
 **bold text**
 *Italics*
 ```Code block```
